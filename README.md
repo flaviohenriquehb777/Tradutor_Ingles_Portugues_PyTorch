@@ -1,0 +1,2 @@
+# Tradutor_Ingles_Portugues_PyTorch
+Tradutor Inglês/Portugês
